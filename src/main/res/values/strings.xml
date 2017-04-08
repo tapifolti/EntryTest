@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">EntryTest</string>
+    <string name="intro_message">
+        <![CDATA[
+
+            The EntryTest app registers persons at a gate and checks if they can re-enter later on.
+
+        ]]>
+    </string>
 </resources>
