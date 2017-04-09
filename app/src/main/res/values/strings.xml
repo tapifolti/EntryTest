@@ -1,8 +1,20 @@
 <resources>
-    <string name="app_name">PartyGate</string>
+    <string name="app_name">Party Gate</string>
+    <string name="register_name">Register</string>
+    <string name="testface_name">Test Face</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="denied_permission">This application needs camera permission (to be able to evaluate yor emotion).\nPlease navigate to: Phone Settings/Apps/ZestTest/Permissions and enable camera access.</string>
+    <string name="request_permission">This application needs camera permission (to be able to evaluate yor emotion). If you deny it the application cannot work.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="camera_lockerror">Time out waiting to lock camera opening.</string>
+    <string name="camera_lockinterruped">Interrupted while trying to lock camera opening.</string>
+    <string name="camera_lockinterrupedclose">Interrupted while trying to lock camera closing.</string>
+    <string name="apikey_error">API key not accessible on this device.</string>
+    <string name="camera_cameraaccess">Cannot access camera, may be used by another application.</string>
+
 </resources>
